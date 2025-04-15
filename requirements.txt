@@ -1,0 +1,4 @@
+streamlit
+pytesseract
+Pillow
+openai  # or use HuggingFace Transformers if preferred
